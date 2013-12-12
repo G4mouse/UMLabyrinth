@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="92" height="92" tilewidth="92" tileheight="92">
+ <tileset firstgid="1" name="Tilt" tilewidth="92" tileheight="92">
+  <image source="../../../../../Dropbox/COMP380/UMLabyrinth/Drawable Finals/Tilt.png" trans="ff00ff" width="920" height="920"/>
+  <tile id="0">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="27">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="54">
+   <properties>
+    <property name="exit" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="92" height="92">
+  <data encoding="base64" compression="zlib">
+   eJztnd1uwyAMhbPtplIn9WqT2u099v5vtuUiGmP82GAbE86RkFoIsfPVEEhIet227TJZ+nDgQ0t6/Um3bT7N6POu2zan7zP6vCvF+7qNb3dh+8v5PYO/Xwm/Y96eYifnS5j/to3nfKRPwvHMztuT7lv99wBvOdX8mjW+PfUhF4K/YTmFt8U5KXVu9PTbUyTF2+K4R9mVFHjbCrxtpcW7tz+n9tU5/73OcbR498Ydle0M48Fb5nNuW/Du0yjepTYe9x/gXa7Te05trQ/e9G0k6nuZX4btM27H7wR/w3IN3qnrkFwbubwRosbwWePbWuBtK/C2FXjbCrxttTpv7esnpflZL+87oY433tpxX/J3xfgGb/CulR3l4F3fP3jrCrzptiQE3n9VW8fUm8JrfrEfK/LWju+SPfDWF3jbCrxtBd62Am9bgbetwPtXFmvbwudEVuc9MtY5ZUc5ePPkhfczww/wLtehbFOzw7VRsgPedTtcGyU74F23w7VRsrMab+56ydL1TW5enL8C716Bd7kOeNPsSfGWXm8d9y85u6vythB426qVt/a9zHh9mzTvUe8CoPYxcb6Fv6FvnHl0qnxUPFNE4e1J4G0rCm+L/q81PTJ+Pxz4lkovlfLU+308abb4rgn9ia3OwNvTuyJSKR5Lzs7bs/+7Yl89+wveZUm17aMNnpl3K6uPYH9SY8tjPkflbdWHl95bQHn3asi7NU40Y43K2yrGS8fK9ZUb56k2D971OjFvqu+p7cG7Xge86fLA+57IkxJ4/98P4jv9PVcHvOnyxlviXgvl3hV4y4nSXs7EmzpHrM0BW+WZd3jv0jq+a3Za5Zl3zofU91R+6OvR96buk3Ps9moV3rGo8/raf6BwxeW9xwk3RiQkzZt73pQSl7elnoLP8Vgs95tr8pa4Lkp5H+so3i12NXlbzXc8rQHjHIME7946lvvTUqldx+1VM757+xfpc7GWOKw0efe2+xHjjhZ54b2KwNtWErypfQH1Wf4zS4J3iy2pcVpubYFXjeItpdnaCXjbCrxtBd62Kvkb/jcOeMuIE9+9Y4raMyte9qmZqP7u8+Vvi7JX8A==
+  </data>
+ </layer>
+</map>
