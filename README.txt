@@ -1,1 +1,0 @@
-Hello. This UMLabyrinth game, super fun game.
